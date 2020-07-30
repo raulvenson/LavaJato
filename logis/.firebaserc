@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "landingpagelavajato"
+  },
+  "targets": {
+    "landingpagelavajato": {
+      "hosting": {
+        "lavajato": [
+          "lavajato"
+        ]
+      }
+    }
   }
 }
